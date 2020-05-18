@@ -16,7 +16,7 @@ It is ***both***
 
 ### LIST 
 
-*Shopping list
-*milk
-*egg
-*salt
+* Shopping list
+  * milk
+  * egg
+  * salt
