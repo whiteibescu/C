@@ -36,8 +36,8 @@ class Program
 ```
 
 ### Link
-[Naver][Http://naver.com]
-[Daum][2]
+[Naver][http://naver.com]  
+[Daum][2]  
 
 [2]:http://daum.net
 
