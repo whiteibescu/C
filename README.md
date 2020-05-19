@@ -35,4 +35,16 @@ class Program
 
 ```
 
-##Link
+### Link
+[Naver][Http://naver.com]
+[Daum][2]
+
+[2]:http://daum.net
+
+### Image
+
+![logo][Address]
+
+![logo][2]
+
+[2]:Address
