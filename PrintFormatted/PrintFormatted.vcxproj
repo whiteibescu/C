@@ -20,8 +20,8 @@
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
-    <ProjectGuid>{C347C835-556C-4D5B-8E7D-6013473A190D}</ProjectGuid>
-    <RootNamespace>Adding10and20Program</RootNamespace>
+    <ProjectGuid>{887C9444-72EB-4560-9EF0-EBBEEFEB7ED2}</ProjectGuid>
+    <RootNamespace>PrintFormatted</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -138,8 +138,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Example2-1.c" />
-    <ClCompile Include="Example2-2.c" />
+    <ClCompile Include="PrintF.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
