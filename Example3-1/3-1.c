@@ -19,4 +19,5 @@ int main(void)
 	printf("변수 da의 값: %.1lf\n", da);
 	printf("변수 ch의 값: %c\n", ch);
 
+	return 0;
 }
