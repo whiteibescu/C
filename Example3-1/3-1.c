@@ -13,5 +13,5 @@ int main(void)
 	da = 3.5;
 	ch = 'A';
 
-	
+	printf("변수 a의 값: %d\n", a);
 }
