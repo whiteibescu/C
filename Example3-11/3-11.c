@@ -6,7 +6,7 @@ int main(void)
 	char grade;
 	char name[20];
 
-	printf("학점 입력 : ");
+	printf("학점 입력 : ");				//입력
 	scanf("%c", &grade);
 	printf("이름 입력 : ");
 	scanf("%s", name);
