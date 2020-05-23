@@ -9,5 +9,7 @@ int main(void)
 	post = (b++) * 3;
 
 	printf("초깃값 a = %d, b = %d\n", a, b);
+	printf("전위형: (++a) * 3 =  %d\n, 후위형: (b++) * 3 = %d\n", pre, post);
 
+	return 0;
 }
