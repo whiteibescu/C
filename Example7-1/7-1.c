@@ -12,3 +12,12 @@ int main(void)
 
 	return 0;
 }
+
+int sum(int x, int y)
+{
+	int temp;
+
+	temp = x + y;
+
+	return temp;
+}
