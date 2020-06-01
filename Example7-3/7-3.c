@@ -18,5 +18,5 @@ void print_char(char ch, int count)
 		printf("%c", ch);
 	}
 
-	return;
+	return; 
 }
