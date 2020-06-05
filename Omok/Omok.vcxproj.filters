@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4-11.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="printf.c">
+    <ClCompile Include="Omok.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
