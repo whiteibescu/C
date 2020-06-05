@@ -24,7 +24,32 @@ struct car {
 	double price;
 };
 
+//#define Car struct car
+// 자료형명을 새로 등록
+typedef struct car Car; 
+
+
+typedef struct car Car; {
+	int code;
+	char name[80];
+	double price;
+}CAR, UCAR, ICAR;
+
 int main(void) {
+	struct car ic;
+	//구조체형 이름을 짧게 다르게  사용하고 싶다...
+	Car myCar;
+	printf(" %d \n", sizeof(Car));
+	printf(" %d \n", sizeof(myCar));
+	// 기본 크기 계산법 : 맴버들의 총합 보다 크다
+
+}
+
+
+
+
+
+int main_01(void) {
 	struct car myCar = { 1, "Grandure", 1000.10};
 	// 구조체 변수를 복사한다...
 
