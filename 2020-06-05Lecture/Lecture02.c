@@ -21,7 +21,7 @@ typedef struct _bits {
 // 비트 필드 구조체
 
 // 자료구조 ??? 자기 참조 구조체
-struct_node; {
+struct _node {
 	int data;
 	struct _ node* prev;
 	struct _ node* next;
