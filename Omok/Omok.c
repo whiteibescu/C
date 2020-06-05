@@ -151,7 +151,7 @@ int judgedred(int array[][PAN_SIZE], int size, int player)
 			else if (array[i][j] == k && array[i + 1][j] == k && array[i + 2][j] == k && array[i + 3][j] == k && array[i + 4][j] == k)
 				return 1;
 		}
-	}
+	} 
 	return 0;
 }
 int copyArray(int dummy[][PAN_SIZE], int pan[][PAN_SIZE]) {
