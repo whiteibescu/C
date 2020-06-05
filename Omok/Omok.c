@@ -209,28 +209,22 @@ int team02(int pan[][PAN_SIZE], int* px, int* py)
 			int y = *py;
 			int x = *px;
 			if (pan[y][x + 1] > 1) {
-				*px = x + 1;
-				*py = y;
+				x++;
 			}
 			if (pan[y][x - 1] > 1) {
-				*px = x + 1;
-				*py = y;
+				x--;
 			}
 			if (pan[y - 1][x] > 1) {
-				*px = x + 1;
-				*py = y;
+				y++;
 			}
 			if (pan[y + 1][x] > 1) {
-				*px = x + 1;
-				*py = y;
+				x--;
 			}
 			if (pan[y + 1][x + 1] > 1) {
-				*px = x + 1;
-				*py = y;
+				x--;
 			}
 			if (pan[y - 1][x - 2] > 1) {
-				*px = x + 1;
-				*py = y;
+				x--;
 			}
 			return 0;
 
