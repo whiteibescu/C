@@ -12,7 +12,7 @@ char* img[] = { "¡Û","¡Ü","¦£ ","¦¨ ","¦¤ ","¦§ ","¦« ","¦© ","¦¦ ","¦ª ","¦¥ " 
 void panInit(int stone[][PAN_SIZE])
 {
 	int i, j;
-	for (i = 0; i < PAN_SIZE; i++)
+	for (i = 0; i < PAN_SIZE; i++) 
 	{
 		for (j = 0; j < PAN_SIZE; j++)
 		{
@@ -209,24 +209,30 @@ int team02(int pan[][PAN_SIZE], int* px, int* py)
 			int y = *py;
 			int x = *px;
 			if (pan[y][x + 1] > 1) {
-				x++;
+				++x;
 			}
 			if (pan[y][x - 1] > 1) {
-				x--;
+				--x;
 			}
 			if (pan[y - 1][x] > 1) {
-				y++;
+				--y;
 			}
 			if (pan[y + 1][x] > 1) {
-				x--;
+				++y;
 			}
 			if (pan[y + 1][x + 1] > 1) {
-				x--;
+				++y;
+				++x;
 			}
 			if (pan[y - 1][x - 2] > 1) {
-				x--;
+				--y;
+				--x;
 			}
+
+			if (x >= 0);
+			if (y <= PAN_SIZE;)
 			return 0;
+
 
 
 		}
