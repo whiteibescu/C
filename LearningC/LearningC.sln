@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30611.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "LearningC", "LearningC\LearningC.vcxproj", "{B043D0F5-7A3A-44B1-BDF0-59FA267B6553}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B043D0F5-7A3A-44B1-BDF0-59FA267B6553}.Debug|x64.ActiveCfg = Debug|x64
+		{B043D0F5-7A3A-44B1-BDF0-59FA267B6553}.Debug|x64.Build.0 = Debug|x64
+		{B043D0F5-7A3A-44B1-BDF0-59FA267B6553}.Debug|x86.ActiveCfg = Debug|Win32
+		{B043D0F5-7A3A-44B1-BDF0-59FA267B6553}.Debug|x86.Build.0 = Debug|Win32
+		{B043D0F5-7A3A-44B1-BDF0-59FA267B6553}.Release|x64.ActiveCfg = Release|x64
+		{B043D0F5-7A3A-44B1-BDF0-59FA267B6553}.Release|x64.Build.0 = Release|x64
+		{B043D0F5-7A3A-44B1-BDF0-59FA267B6553}.Release|x86.ActiveCfg = Release|Win32
+		{B043D0F5-7A3A-44B1-BDF0-59FA267B6553}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C313B64C-E9B0-47E0-9C32-D2A1FBE17C81}
+	EndGlobalSection
+EndGlobal
