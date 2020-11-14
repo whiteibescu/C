@@ -21,5 +21,8 @@
     <ClCompile Include="2-2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2-3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
