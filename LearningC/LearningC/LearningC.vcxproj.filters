@@ -27,5 +27,20 @@
     <ClCompile Include="2-4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2-5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2-6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="2-7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3-1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="3-2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
