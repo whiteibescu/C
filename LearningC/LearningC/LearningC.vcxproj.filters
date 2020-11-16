@@ -66,5 +66,11 @@
     <ClCompile Include="3-10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="3-11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="4-1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
