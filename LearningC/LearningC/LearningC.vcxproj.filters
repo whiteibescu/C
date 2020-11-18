@@ -99,5 +99,8 @@
     <ClCompile Include="4-10.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="4-11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
