@@ -123,7 +123,10 @@
     <ClCompile Include="5-6,c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="5-7.c">
+    <ClCompile Include="6-1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6-2.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
