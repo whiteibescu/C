@@ -126,7 +126,13 @@
     <ClCompile Include="6-1.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="6-3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
     <ClCompile Include="6-2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="6-4.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
