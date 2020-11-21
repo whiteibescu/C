@@ -153,5 +153,11 @@
     <ClCompile Include="7-5.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="7-6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="7-7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
