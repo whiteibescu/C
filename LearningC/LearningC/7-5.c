@@ -12,5 +12,5 @@ int main()
 void fruit(void)
 {
 	printf("apple\n");
-	fruit();
+	fruit(); 
 }
