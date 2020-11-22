@@ -1,3 +1,4 @@
+#define _CRT_SECURITY_NO_WARNINGS
 #include <stdio.h>
 
 int main(void) 
