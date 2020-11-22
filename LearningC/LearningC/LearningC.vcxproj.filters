@@ -159,5 +159,23 @@
     <ClCompile Include="7-7.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="8-1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8-2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8-3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8-4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8-5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="8-6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
