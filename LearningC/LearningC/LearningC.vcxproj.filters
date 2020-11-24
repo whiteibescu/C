@@ -372,5 +372,44 @@
     <ClCompile Include="16-6.c">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="17-1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-2.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-3.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-4.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-6.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-7.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-8.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-9.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-10.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-11.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="17-12.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="18-1.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
